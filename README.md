@@ -1,4 +1,4 @@
-### Olá 👋
+### Muito prazer, eu sou o Giorgio!
 
 <img align="right" alt="Mona" height="300px" width="300px" src="assets/NUX_Octodex.gif" />
 
