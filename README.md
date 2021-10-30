@@ -2,7 +2,7 @@
 
 <img align="right" alt="Mona" height="300px" width="300px" src="assets/NUX_Octodex.gif" />
 
-Aspirante a cientista da computação, podcaster e escritor nas horas vagas. Tenho interesse por assuntos diversos, como Data Science, UX e engenharia de software em geral. Amante de café, curioso por natureza, gosto de frases de efeito… Difícil me fazer parar de falar quando me empolgo com algo, especialmente se isso envolver Star Trek ou Doctor Who. Tenho um carinho muito especial por pessoas que ajudam outras!
+Cientista da computação em formação, podcaster e escritor nas horas vagas. Tenho interesse por Data Science e Machine Learning e grande empolgação pela área da educação. Amante de café, curioso por natureza, gosto de frases de efeito… Difícil me fazer parar de falar quando me empolgo com algo, especialmente se isso envolver Star Trek ou Doctor Who. Tenho um carinho muito especial por pessoas que ajudam outras!
 
 > "As grandes coisas não são feitas por impulso, mas através de uma série de pequenas coisas acumuladas" - Vincent Van Gogh
 
