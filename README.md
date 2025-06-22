@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Mona" height="300px" width="300px" src="assets/NUX_Octodex.gif" /> -->
 <img align="right" alt="Mona" height="300px" width="300px" src="assets/jetpacktocat.png" />
 
-Professor, cientista da computação em formação, podcaster e escritor nas horas vagas. Tenho interesse por Data Science e Machine Learning e grande empolgação pela área da educação. Amante de café, curioso por natureza, gosto de frases de efeito… Difícil me fazer parar de falar quando me empolgo com algo, especialmente se isso envolver Star Trek ou Doctor Who. Tenho um carinho muito especial por pessoas que ajudam outras!
+Professor, cientista da computação em formação e pesquisador iniciante. Amante de café, curioso por natureza, gosto de frases de efeito… Difícil me fazer parar de falar quando me empolgo com algo. Tenho um carinho muito especial por pessoas que ajudam outras!
 
 > "As grandes coisas não são feitas por impulso, mas através de uma série de pequenas coisas acumuladas" - Vincent Van Gogh
 
